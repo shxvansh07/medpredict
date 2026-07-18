@@ -1,0 +1,14 @@
+# trained model artifacts -- regenerate with ml/train.py + ml/build_symptom_embeddings.py
+ml/models/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# java / maven
+desktop/target/
+
+# os
+.DS_Store

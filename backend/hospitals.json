@@ -1,0 +1,17 @@
+[
+  {"name": "Manipal Hospital, Old Airport Road", "lat": 12.9581, "lon": 77.6481, "specialties": ["general_medicine", "cardiology", "gastroenterology", "orthopedics", "nephrology", "pulmonology"]},
+  {"name": "Fortis Hospital, Bannerghatta Road", "lat": 12.8916, "lon": 77.5963, "specialties": ["general_medicine", "cardiology", "neurology", "orthopedics", "oncology", "pulmonology"]},
+  {"name": "Apollo Hospital, Bannerghatta Road", "lat": 12.8998, "lon": 77.5995, "specialties": ["general_medicine", "cardiology", "gastroenterology", "endocrinology", "infectious_disease", "pulmonology"]},
+  {"name": "NIMHANS", "lat": 12.9434, "lon": 77.5961, "specialties": ["neurology", "psychiatry"]},
+  {"name": "St. John's Medical College Hospital", "lat": 12.9279, "lon": 77.6236, "specialties": ["general_medicine", "infectious_disease", "gastroenterology", "dermatology", "orthopedics"]},
+  {"name": "Narayana Health City", "lat": 12.8106, "lon": 77.6006, "specialties": ["cardiology", "general_medicine", "nephrology", "oncology"]},
+  {"name": "Sakra World Hospital", "lat": 12.9279, "lon": 77.6764, "specialties": ["general_medicine", "orthopedics", "gastroenterology", "urology", "endocrinology"]},
+  {"name": "Columbia Asia Hospital, Hebbal", "lat": 13.0459, "lon": 77.5911, "specialties": ["general_medicine", "dermatology", "ENT", "pediatrics"]},
+  {"name": "Aster CMI Hospital", "lat": 13.0475, "lon": 77.5947, "specialties": ["neurology", "cardiology", "general_medicine", "nephrology"]},
+  {"name": "BGS Gleneagles Global Hospital", "lat": 12.9081, "lon": 77.5125, "specialties": ["general_medicine", "gastroenterology", "orthopedics", "urology"]},
+  {"name": "Victoria Hospital (Bangalore Medical College)", "lat": 12.9634, "lon": 77.5730, "specialties": ["general_medicine", "infectious_disease", "orthopedics", "dermatology"]},
+  {"name": "M.S. Ramaiah Memorial Hospital", "lat": 13.0290, "lon": 77.5658, "specialties": ["general_medicine", "cardiology", "endocrinology", "ENT", "dermatology", "pulmonology"]},
+  {"name": "Vydehi Institute of Medical Sciences", "lat": 12.9986, "lon": 77.7076, "specialties": ["general_medicine", "gastroenterology", "orthopedics", "infectious_disease", "pulmonology"]},
+  {"name": "Kidwai Memorial Institute of Oncology", "lat": 12.9599, "lon": 77.5945, "specialties": ["oncology"]},
+  {"name": "Bowring & Lady Curzon Hospital", "lat": 12.9843, "lon": 77.5987, "specialties": ["general_medicine", "infectious_disease", "dermatology"]}
+]
