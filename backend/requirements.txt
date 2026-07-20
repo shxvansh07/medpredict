@@ -3,5 +3,6 @@ uvicorn
 pandas
 numpy
 joblib
+scikit-learn
 shap
 sentence-transformers
